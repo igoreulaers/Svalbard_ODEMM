@@ -1,0 +1,12 @@
+name: Svalbard_ODEMM
+title: Svalbard_ODEMM
+username: igoreulaers-labs
+account: igoreulaers-labs
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16751765
+bundleId: 11624244
+url: https://igoreulaers-labs.shinyapps.io/Svalbard_ODEMM/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
